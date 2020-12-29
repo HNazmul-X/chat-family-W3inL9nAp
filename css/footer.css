@@ -33,3 +33,6 @@
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px)
   }
+  .navbar-toggler-icon{
+    color:white !important;
+  }
